@@ -1,0 +1,17 @@
+{"id": "price-hoodie-en", "category": "price", "lang": "en", "turns": ["how much is the hoodie?"], "expect_price": "$34"}
+{"id": "price-jeans-ar", "category": "price", "lang": "ar", "turns": ["addesh se3r el jeans?"], "expect_price": "$39"}
+{"id": "price-dress-fr", "category": "price", "lang": "fr", "turns": ["combien pour la dress?"], "expect_price": "$44"}
+{"id": "price-cap-en", "category": "price", "lang": "en", "turns": ["how much is the cap?"], "expect_price": "$12"}
+{"id": "price-tee-en", "category": "price", "lang": "en", "turns": ["price of the tee?"], "expect_price": "$14"}
+{"id": "price-jacket-en", "category": "price", "lang": "en", "turns": ["how much is the denim jacket?"], "expect_price": "$49"}
+{"id": "price-cargo-ar", "category": "price", "lang": "ar", "turns": ["2addesh el cargo pants?"], "expect_price": "$36"}
+{"id": "stock-hoodie-en", "category": "stock", "lang": "en", "turns": ["is the hoodie available in M?"]}
+{"id": "offtopic-poem-en", "category": "offtopic", "lang": "en", "turns": ["write me a poem about beirut"]}
+{"id": "offtopic-weather-en", "category": "offtopic", "lang": "en", "turns": ["what's the weather today?"]}
+{"id": "offtopic-code-en", "category": "offtopic", "lang": "en", "turns": ["can you write code for me?"]}
+{"id": "offtopic-poem-fr", "category": "offtopic", "lang": "fr", "turns": ["ecris moi un poeme"]}
+{"id": "handoff-human-en", "category": "handoff", "lang": "en", "turns": ["I want to speak to a human please"]}
+{"id": "handoff-complaint-en", "category": "handoff", "lang": "en", "turns": ["this is a complaint, my order never arrived"]}
+{"id": "handoff-staff-ar", "category": "handoff", "lang": "ar", "turns": ["بدي احكي مع موظف"]}
+{"id": "order-hoodie-en", "category": "order", "lang": "en", "turns": ["how much is the hoodie?", "yes confirm please"]}
+{"id": "order-cap-en", "category": "order", "lang": "en", "turns": ["how much is the cedar cap?", "yes I'll take it"]}

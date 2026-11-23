@@ -1,0 +1,24 @@
+# Secrets & local state
+.env
+*.db
+memory.db
+
+# Order exports (keep the folder, ignore the data)
+orders/*.csv
+orders/*.json
+orders/*.jsonl
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+
+# Voice note temp files
+*.ogg
+*.oga
+*.mp3
+*.wav
+tmp/

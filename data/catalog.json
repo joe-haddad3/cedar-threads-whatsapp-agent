@@ -1,0 +1,126 @@
+{
+  "shop": {
+    "name": "Cedar Threads",
+    "tagline": "Lebanese streetwear & everyday basics",
+    "currency": "USD",
+    "delivery": {
+      "beirut_usd": 3,
+      "outside_beirut_usd": 5,
+      "free_over_usd": 60,
+      "eta_days": "1-3"
+    },
+    "payment": ["Cash on delivery", "OMT", "Whish Money", "Bank transfer"]
+  },
+  "products": [
+    {
+      "id": "TS-001",
+      "name": "Classic Cotton Tee",
+      "category": "t-shirts",
+      "description": "100% combed cotton crew-neck t-shirt, unisex fit.",
+      "price_usd": 14,
+      "colors": ["white", "black", "olive", "beige"],
+      "variants": {
+        "S": 12, "M": 20, "L": 18, "XL": 7, "XXL": 0
+      }
+    },
+    {
+      "id": "TS-002",
+      "name": "Oversized Beirut Tee",
+      "category": "t-shirts",
+      "description": "Heavyweight oversized tee with a small embroidered cedar on the chest.",
+      "price_usd": 19,
+      "colors": ["black", "sand", "washed-blue"],
+      "variants": {
+        "S": 5, "M": 9, "L": 11, "XL": 4, "XXL": 2
+      }
+    },
+    {
+      "id": "HD-001",
+      "name": "Essential Hoodie",
+      "category": "hoodies",
+      "description": "Fleece-lined pullover hoodie with kangaroo pocket.",
+      "price_usd": 34,
+      "colors": ["black", "grey", "cream"],
+      "variants": {
+        "S": 4, "M": 8, "L": 6, "XL": 3, "XXL": 1
+      }
+    },
+    {
+      "id": "HD-002",
+      "name": "Zip-Up Tech Hoodie",
+      "category": "hoodies",
+      "description": "Lightweight zip hoodie, water-resistant shell, great for layering.",
+      "price_usd": 42,
+      "colors": ["navy", "black"],
+      "variants": {
+        "S": 2, "M": 5, "L": 5, "XL": 2, "XXL": 0
+      }
+    },
+    {
+      "id": "JN-001",
+      "name": "Slim Stretch Jeans",
+      "category": "jeans",
+      "description": "Mid-rise slim-fit jeans with a touch of stretch.",
+      "price_usd": 39,
+      "colors": ["indigo", "black", "light-wash"],
+      "variants": {
+        "28": 3, "30": 6, "32": 7, "34": 5, "36": 2
+      }
+    },
+    {
+      "id": "CP-001",
+      "name": "Cargo Pants",
+      "category": "pants",
+      "description": "Relaxed-fit cotton cargo pants with six pockets.",
+      "price_usd": 36,
+      "colors": ["khaki", "black", "olive"],
+      "variants": {
+        "28": 2, "30": 4, "32": 6, "34": 4, "36": 1
+      }
+    },
+    {
+      "id": "JK-001",
+      "name": "Denim Jacket",
+      "category": "jackets",
+      "description": "Classic trucker denim jacket, unlined.",
+      "price_usd": 49,
+      "colors": ["mid-blue", "black"],
+      "variants": {
+        "S": 3, "M": 5, "L": 4, "XL": 2, "XXL": 0
+      }
+    },
+    {
+      "id": "CAP-001",
+      "name": "Cedar Cap",
+      "category": "accessories",
+      "description": "Adjustable 6-panel cap with embroidered cedar.",
+      "price_usd": 12,
+      "colors": ["black", "beige", "green"],
+      "variants": {
+        "one-size": 25
+      }
+    },
+    {
+      "id": "SK-001",
+      "name": "Ribbed Socks (3-pack)",
+      "category": "accessories",
+      "description": "Pack of three ribbed cotton crew socks.",
+      "price_usd": 9,
+      "colors": ["mixed"],
+      "variants": {
+        "one-size": 40
+      }
+    },
+    {
+      "id": "DR-001",
+      "name": "Linen Summer Dress",
+      "category": "dresses",
+      "description": "Breathable linen-blend midi dress, side pockets.",
+      "price_usd": 44,
+      "colors": ["white", "terracotta", "sage"],
+      "variants": {
+        "S": 4, "M": 6, "L": 5, "XL": 2
+      }
+    }
+  ]
+}

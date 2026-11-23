@@ -1,0 +1,29 @@
+{
+  "_note": "WhatsApp template messages must be pre-approved in Meta Business Manager before use on real traffic. These are local copies used for follow-ups and the CLI demo. {{1}} = customer name, {{2}} = item / detail.",
+  "templates": [
+    {
+      "name": "abandoned_cart",
+      "language": "en",
+      "category": "MARKETING",
+      "body": "Hi {{1}}! You were looking at {{2}} earlier. It's still in stock — want me to reserve it for you?"
+    },
+    {
+      "name": "order_confirmation",
+      "language": "en",
+      "category": "UTILITY",
+      "body": "Thanks {{1}}! Your order ({{2}}) is confirmed. We'll message you when it ships."
+    },
+    {
+      "name": "back_in_stock",
+      "language": "en",
+      "category": "MARKETING",
+      "body": "Good news {{1}} — {{2}} is back in stock. Reply here to grab one before it sells out again."
+    },
+    {
+      "name": "quiet_checkin",
+      "language": "en",
+      "category": "MARKETING",
+      "body": "Hey {{1}}, still thinking it over? I'm here if you have any questions about {{2}}."
+    }
+  ]
+}
